@@ -41,7 +41,7 @@
     </dependency>
   </dependencies>
  
-  <build>
+  <build
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
        ... lots of helpful plugins
     </pluginManagement>
